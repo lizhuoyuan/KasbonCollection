@@ -72,8 +72,7 @@ export default class LoginPage extends React.Component {
 
         if (ScreenUtil.isEmpty(email) || ScreenUtil.isEmpty(password)) {
             ToastAndroid.show('请输入正确的账号信息', ToastAndroid.LONG);
-        }
-        else {
+        } else {
             let md5_password = CryptoJS.MD5(password).toString();
             Fetch.post(Url.app_login, {email, password: md5_password},
                 result => {
