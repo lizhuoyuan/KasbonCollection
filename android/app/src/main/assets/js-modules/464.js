@@ -1,0 +1,1 @@
+__d(function(e,s,t,a,i){t.exports=s(i[0]).registerAsset({__packager_asset:!0,httpServerLocation:"/assets/js/img",width:128,height:128,scales:[1],hash:"4e7c42d64e5e02467b61eafbf125899e",name:"magnifier",type:"png"})},464,[143]);

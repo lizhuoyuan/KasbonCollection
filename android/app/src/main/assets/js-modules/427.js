@@ -1,0 +1,1 @@
+__d(function(a,p,t,i,e){Object.defineProperty(i,"__esModule",{value:!0});i.DEBUG=!1;var l=i.baseUrl='http://api.hadoop.network',_={app_login:l+"/admin/api/auth/app_login",app_task_list:l+"/admin/api/collection/app_task_list",app_task_detail:l+"/admin/api/collection/app_task_detail"};i.default=_},427,[]);

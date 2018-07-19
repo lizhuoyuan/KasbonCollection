@@ -1,0 +1,1 @@
+__d(function(e,r,n,i,o){var t=r(o[0]),a=r(o[1]),u=babelHelpers.interopRequireDefault(a);t.YellowBox.ignoreWarnings(['Warning: isMounted(...) is deprecated','Module RCTImageLoader']),t.AppRegistry.registerComponent('UrgeRepay',function(){return u.default})},11,[12,305]);
